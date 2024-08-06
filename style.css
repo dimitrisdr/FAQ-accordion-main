@@ -119,11 +119,6 @@ body {
 
 @media screen and (max-width:375px) {
 
-    body {
-        background-position: 0 -10px;
-    }
-
-
     .wraper {
         margin-inline: 1rem;
     }
