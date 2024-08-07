@@ -117,7 +117,13 @@ body {
 }
 
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:395px) {
+
+    body {
+        background-image: url('assets/images/background-pattern-mobile.svg');
+        background-position: 0 10px;
+
+    }
 
     .wraper {
         margin-inline: 1rem;
