@@ -116,13 +116,10 @@ body {
     color: hsl(228, 45%, 44%); 
 }
 
-
-@media screen and (max-width:395px) {
+@media screen and (max-width:595px) {
 
     body {
         background-image: url('assets/images/background-pattern-mobile.svg');
-        background-position: 0 10px;
-
     }
 
     .wraper {
